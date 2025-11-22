@@ -1,4 +1,4 @@
-# Offline Web App with Local Storage (IndexedDB + Installable PWA)
+## Offline Web App with Local Storage (IndexedDB + Installable PWA)
 
 A complete, zero-server web app that saves data **directly inside your device** using IndexedDB. Works 100% offline, can be installed to home screen, and feels like a native app.
 
